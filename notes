@@ -1,0 +1,20 @@
+<tagname> - Opening tag
+
+    Content - Other elements and content
+
+</tagname> - Closing tag
+
+
+<tagname>Content</tagname>
+
+<tagname>
+
+    <tagname>
+        <tagname>
+            <tagname>Content</tagname>
+            <tagname>Content</tagname>
+            <tagname>
+                <tagname>Content</tagname>
+            </tagname>
+        </tagname>
+    </tagname>
